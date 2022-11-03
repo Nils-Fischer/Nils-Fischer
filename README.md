@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Nils and i have a passion for programming.
+Hi, I'm Nils and I have a passion for programming.
 
 ## 🔧 Tools & Technologies
 

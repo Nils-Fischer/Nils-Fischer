@@ -23,3 +23,4 @@ Hi, I'm Nils and i have a passion for programming.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
 </span>          
+[![Codewars](https://www.codewars.com/users/Nils-Fischer/badges/large)](https://www.codewars.com/users/Nils-Fischer/stats)
